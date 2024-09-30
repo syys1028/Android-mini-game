@@ -6,10 +6,10 @@
 이 프로젝트는 모바일 기기의 가속도 센서를 사용하여 공을 움직여 목표 지점인 네모에 들어가는 게임입니다. 사용자는 핸드폰을 기울여 공을 조작하고, 각 단계를 클리어할수록 게임의 난이도가 점차 올라가며, 배경 음악과 다양한 시각적 요소가 포함되어 있어 게임 플레이를 더욱 흥미롭게 합니다.
 
 ## 📌 폴더 구조
-    📂 mobile-sensor-game/  
-     ┣ 📂 /src/main/java/com/example/b2203098_0927  
-     ┃ ┣ 📂 /res/drawable                   # 배경 이미지 파일  
-     ┃ ┣ 📂 /assets                         # 게임에 필요한 이미지 및 리소스 파일  
+    📂 src/main
+     ┣ 📂 ../java/com/example/b2203098_0927  
+     ┃ ┣ 📂 /res/layout                     # 레이아웃 xml 파일
+     ┃ ┣ 📂 /res/drawable                   # 게임에 필요한 이미지 및 리소스 파일  
      ┃ ┣ 📜 MainActivity.java               # 공 움직임과 레벨 관리 코드  
      ┃ ┣ 📜 MusicService.java               # 배경 음악 제어 서비스  
      ┃ ┣ 📜 /res/layout/activity_main.xml   # 게임 화면 레이아웃 설정  
