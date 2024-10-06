@@ -8,11 +8,11 @@
 ## 📌 폴더 구조
         📂 src/main
         ┣ 📂 ../java/com/example/b2203098_0927  
-        ┃ ┣ 🔎 MainActivity.java               # 공 움직임과 레벨 관리 코드  
+        ┃ ┣ 📜 MainActivity.java               # 공 움직임과 레벨 관리 코드  
         ┃ ┣ 📜 MusicService.java               # 배경 음악 제어 서비스  
         ┣ 📂 ../res
         ┃ ┣ 📂 /layout                         # 레이아웃 xml 파일  
-        ┃ ┃ ┣ 🔎 activity_main.xml             # 메인 화면 레이아웃 설정  
+        ┃ ┃ ┣ 📜 activity_main.xml             # 메인 화면 레이아웃 설정  
         ┃ ┣ 📂 /drawable                       # 게임에 필요한 이미지 및 리소스 파일  
         ┃ ┣ 📂 /raw
         ┃ ┃ ┣ 📜 game_bgm.mp3                  # 배경 음악 파일  
